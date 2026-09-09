@@ -1,0 +1,10 @@
+out
+__pycache__/
+resources/wiki-full/*
+!resources/wiki-full/README.md
+
+# Local course-staff review, reference material, and regression tests.
+/*CORRECTIONS*.md
+/STAFF_*.md
+/staff/
+/tests/test_staff_*.py

@@ -1,0 +1,4 @@
+{"id":10,"title":"MapReduce","text":"Map maps data; reduce reduces mapped data. Don't collect everything!","links":[20]}
+{"id":20,"title":"Hadoop","text":"Hadoop maps and reduces data across computers. Data, data, data.","links":[10,30]}
+{"id":30,"title":"Empty example","text":"the and of a","links":[]}
+not-json

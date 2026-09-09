@@ -1,0 +1,9 @@
+.git
+out
+**/__pycache__
+resources/wiki-full/*
+!resources/wiki-full/README.md
+HANDOUT_CORRECTIONS*.md
+STAFF_*.md
+staff
+tests/test_staff_*.py
